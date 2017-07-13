@@ -17,4 +17,11 @@ The build system uses Webpack. It will generate the build folder containing all 
 `npm run build`
 
 ## Toolchain
-Javascript ES6, React, ReactDOM, React Scripts, React Infinite Scroller, Webpack, Babel, Qwest
+* **Javascript ES6**. The language of choice.
+* **React**. The modern and popular Javascript framework. Why do I choose this for this particular simple app? No definitive reason, I just want to get my hands dirty on this so-called framework. I have never really play around it deeply before so I figure out that this would be a good chance to learn this framework on the way.
+- **ReactDOM**. To be used alongside react to manipulate dom.
+- **React Script**. Provide the npm install, start, test and build command. 
+- **React Infinite Scroller**. Provide infinite scroll loading functionality.
+- **Webpack**. The arguably most modern javascript build system. Itäs included in the react script.
+- **Babel**. So that our cool future-friendly app works well with lame browsers ;)
+- **Qwest**. Modern ajax library to make connection to Flickr API.
